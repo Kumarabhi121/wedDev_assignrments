@@ -1,0 +1,41 @@
+section{
+    float: left;
+    margin-top: 110px;
+    margin-left: 40px;
+
+}
+
+.image{
+    clear: right;
+    height: 500px;
+    width: 465px;
+    margin-left: 100px;
+    margin-top: 36px;
+    
+}
+
+body{
+    background-color: black;
+}
+.heading{
+    color: white;
+    font-size: 45px;
+}
+.paragraph{
+    color: white;
+    font-family: sans-serif;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    
+    border: 2px;
+    border-radius: 5px;
+    
+    width: 139px;
+    height: 43px;
+    font-size: 16px;
+    font-family: sans-serif;
+
+}

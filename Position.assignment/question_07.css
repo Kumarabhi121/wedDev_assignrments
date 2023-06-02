@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+}
+
+#card01{
+    background-color: blue;
+    height: 218px;
+    width: 219px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    position: relative;
+}
+
+#card01:hover{
+    z-index: 999;
+}
+#card02{
+    background-color: green;
+    height: 218px;
+    width: 219px;
+    border: 2px solid green;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 130px;
+    left: 69px;
+}
+#card02:hover{
+    z-index: 9;
+
+}
+#card03{
+    background-color: yellow;
+    height: 218px;
+    width: 219px;
+    border: 2px solid yellow;
+    border-radius: 5px;
+    text-align: center;
+    color: red;
+    position: absolute;
+    top: 185px;
+    left: 149px;
+
+}
+
+#card03:hover{
+    z-index: 8;}
+div{
+    margin-left: 10px;
+}
+
+body{
+    border: 2px solid black;
+    height: 700px;
+}

@@ -1,0 +1,66 @@
+body{
+    background-color: #000000;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.fistHeading{
+    
+    float: right;
+    text-align: center;
+    color: blue;
+    margin-right: 580px;
+    
+    
+}
+.sec_heading{
+    text-align: center;
+    color: blue;
+    float: none;
+}
+.navClass{
+    color: aliceblue;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    border-bottom: dotted black;
+    height: 30px;
+    margin-top: 20px;
+}
+nav{
+    border: 2px solid #3130307e;
+    background-color: #3130307e;
+    width: 144px;
+    float: left;
+    height: 810px;
+}
+.logoImg{
+    clear: left;
+    height: 45px;
+    width: 144px;
+    background-color: blue;
+    
+}
+p{
+    color: white;
+    clear: right;
+    margin-left: 50px;
+    margin-left: 354px;
+    margin-right: 333px
+}
+.mainImg{
+    height: 335px;
+    width: 500px;
+    margin-left: 310px;
+    margin-top: 25px;
+}
+.chatbot{
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    position: sticky;
+    margin-top: -80px;
+    position: sticky;
+    bottom: 0px;
+
+}
