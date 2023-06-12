@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+
+div{
+    margin-top: 300px;
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+
+img{
+    height: 200px;
+    border: 12px solid white;
+    border-radius: 50%;
+}
+
+#image01{
+    z-index: 1;
+}
+#image02{
+    position: relative;
+    right: 100px;
+}
+
+#image03{
+    position: relative;
+    right: 190px;
+    z-index: -1;
+
+}
+
+#image04{
+    position: relative;
+    right: 280px;
+    z-index: -2;
+}

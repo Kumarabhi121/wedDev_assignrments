@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+    padding: 0%;
+}
+nav{
+    position: relative;
+}
+hr{
+    width: 1301px;
+    width: 1290px;
+    position: absolute;
+    top: 60px;
+    left: 50px;
+    border: 1px solid #d2cecef4;
+}
+
+.navimage{
+    height: 68px;
+    width: 120px;
+    margin-left: 0px;
+    margin-left: 50px;
+}
+.navtext{
+    display: flex;
+    position: absolute;
+    right: 82px;
+    top: 18px;
+  
+}
+
+.forwork{
+    color: blue;
+    margin-right: 73px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: medium;
+    font-family: sans-serif;
+    
+}
+
+
+.signin{
+    border: 1px solid #8a87874c;
+    margin-right: 75px;
+    width: 113px;
+    height: 40px;
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #1a73e8;
+    font-family: sans-serif;
+    font-size: medium;
+    background-color: white;
+}
+.signin:hover{
+    background-color: #e0dada4c;
+}
+ 
+.createanaccount{
+    
+    border: 1px solid #1a73e8;
+    height: 40px;
+    width: 160px;
+    background-color: #1a73e8;
+    font-family: sans-serif;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    font-size: medium;
+}
+
+container{
+    float: left;
+    margin-left: 100px;
+    margin-top: 54px;
+}
+
+.mainimage{
+    clear: right;
+    width: 766px;
+    margin-left: 80px;
+    margin-top: 25px;
+    
+}
+.second_forwork{
+    display: inline-block;
+    color: blue;
+    cursor: pointer;
+    font-size: medium;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 45px;
+}
+p{
+    font-family: sans-serif;
+    color: #1e1c1ca0;
+}
+
+.secondbutton{
+    border: 1px solid #1a73e8;
+    height: 40px;
+    width: 160px;
+    /* text-align: center; */
+    background-color: #1a73e8;
+    font-family: sans-serif;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    font-size: medium;
+}
