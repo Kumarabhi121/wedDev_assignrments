@@ -1,0 +1,12 @@
+.items{
+    border: 2px solid black;
+    height: 186px;
+    width: 285px;
+    background-color: #6868f6;
+    margin: 25px;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    
+}
+
